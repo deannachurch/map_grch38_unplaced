@@ -4,3 +4,5 @@ data/*
 README_files/*
 README.html
 README.pdf
+.DS_Store
+
